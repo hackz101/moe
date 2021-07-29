@@ -1,0 +1,15 @@
+{
+  "name": "moe",
+  "version": "1.0.0",
+  "description": "Model Organizing Environment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Hayden Baca",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
