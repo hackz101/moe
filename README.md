@@ -1,1 +1,1 @@
-# moe
+# MOE (Model Organization Environment)
